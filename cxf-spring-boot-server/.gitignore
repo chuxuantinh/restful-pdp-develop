@@ -1,0 +1,8 @@
+/.settings/
+/target/
+/test-output/
+/.classpath
+/.pmd
+/.pmdruleset.xml
+/.project
+/catalina.base_IS_UNDEFINED/
